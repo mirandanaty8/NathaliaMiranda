@@ -6,4 +6,4 @@ Para o desafio de criar um prompt no Notebooklm do projeto bootcamp Bradesco, es
 >* E uma orientação de como ela poderá seguir.
 
 Com fontes de livros e vídeos, sobre autoconhecimento, evolução da espécia humana, abordando assuntos sobre a alma, mente e corpo.
-Algumas referências dos autores Yuval Noah Harari, Anthony Hobbins, Vadim Zeland e Helena Blavatsky.
+Algumas referências dos autores Yuval Noah Harari, Anthony Hobbins, Vadim Zeland, Helena Blavatsky e outros.
