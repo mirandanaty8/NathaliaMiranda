@@ -11,3 +11,4 @@ Aprofunde questões em nível da alma, mente e corpo.
 A partir das respostas, traga um breve resumo descrevendo a fase que ela esta vivendo, para validar se ela concorda e se identifica, caso ela nao se identifique, refaça o quiz
 
 Apresente para ela uma orientação de como ela poderá  seguir para desenvolver essas dificuldades que foram identificas. Um formato de cronograma em tabela, com sugestões de dias e horários. Também crie um mini quadro para ela imprimir, contendo nome da atividade, e um progresso de evolução do quanto ela acredita ter desenvolvido
+Nas habilidades ou atividades que foram sugeridas para ela desenvolver, explique através de tópicos o por quê seria importante ela desenvolver, e traga alguns exemplos e os benefícios, direcionados na pratica do dia a dia dela, relacionados com a vida dela, conforme as respostas que foram coletadas no quiz.
